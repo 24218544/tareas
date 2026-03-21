@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "actividad": "Preparación Examen 1 — Estructuras Lineales",
+    "modelo": "AETL — UAN Sistemas Computacionales",
+    "generado_en": "2026-03-21T20:29:08.964Z",
+    "version": "2.0"
+  },
+  "diagnostico": {
+    "confianza_declarada": {
+      "arreglos": "alta",
+      "lista-simple": "alta",
+      "lista-dc": "media",
+      "pilas": "media",
+      "colas": "media",
+      "complejidad": "media"
+    },
+    "quiz_verificacion": {
+      "pregunta_1": {
+        "respuesta_dada": "c",
+        "correcta": true,
+        "respuesta_correcta": "c"
+      },
+      "pregunta_2": {
+        "respuesta_dada": "b",
+        "correcta": true,
+        "respuesta_correcta": "b"
+      },
+      "pregunta_3": {
+        "respuesta_dada": "b",
+        "correcta": true,
+        "respuesta_correcta": "b"
+      }
+    },
+    "disonancias_detectadas": [],
+    "nota": "No se detectaron disonancias entre autopercepción y desempeño en quiz."
+  },
+  "simulacro": {
+    "por_problema": {
+      "problema_1": "correcto",
+      "problema_2": "correcto",
+      "problema_3": "correcto",
+      "problema_4": "correcto",
+      "problema_5": "correcto",
+      "problema_6": "correcto"
+    },
+    "resumen": {
+      "correctos": 6,
+      "para_revisar": 0,
+      "sin_marcar": 0
+    },
+    "nota": "Sin problemas marcados para revisión."
+  },
+  "respuestas_escritas": {
+    "problema_1": {
+      "caracteres": 323,
+      "preview": "Función A: O(n), tiene un ciclo que hace n interaciones, también cuenta con un c..."
+    },
+    "problema_2": {
+      "caracteres": 482,
+      "preview": "a) Se detecta que el arreglo está lleno y se crea uno con el doble de capacidad ..."
+    },
+    "problema_3": {
+      "caracteres": 233,
+      "preview": "a) El puntero [5].sig ahora apunta a [12].sig ( = [8]) \nb) O(1). Siempre es cons..."
+    },
+    "problema_4": {
+      "caracteres": 256,
+      "preview": "push( { ), pila: {, push( ( ), pila: {(, pop( ( ) CORRESPONDE CON ), pila: {, pu..."
+    },
+    "problema_5": {
+      "caracteres": 128,
+      "preview": "a) Devuelve \"A\". frente = 3, rear = 4, datos = [_, _, _, \"B\", \"C\"]\nb) frente = 0..."
+    },
+    "problema_6": {
+      "caracteres": 572,
+      "preview": "a) 1. Pila 2. Se necesita acceder al último elemento agregado, para eso mismo fu..."
+    }
+  }
+}
